@@ -18,6 +18,7 @@ from web3 import Web3
 
 # Dash instance
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])
+server = app.server
 
 # import nomics API key from .env
 load_dotenv()
