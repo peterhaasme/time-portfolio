@@ -194,6 +194,7 @@ notes = dbc.Col(
             - MEMO -> 0xe7ca3ff841ee183e69a38671927290a34de49567
             - wMEMO -> 0xdcf6f52faf50d9e0b6df301003b90979d232400e
         - Prices refresh every 60s
+        - [Github](https://github.com/peterhaasme/wonderland-portfolio)
         - Coming soon: bonding rewards balance
     ''')
 )
